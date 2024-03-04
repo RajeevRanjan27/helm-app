@@ -9,6 +9,6 @@ entries:
     name: app
     type: application
     urls:
-    - https://rajeevranjan27.github.io/helm-app/app-0.1.0.tgz
+    - https://rajeevranjan27.github.io/helm-app/app/app-0.1.0.tgz
     version: 0.1.0
 generated: "2024-03-04T16:48:01.680461955+05:30"
